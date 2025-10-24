@@ -1,0 +1,28 @@
+[
+    {
+        "name" : "Jollibee",
+        "description" : "Chickenjoy, crispy and very juicy",
+        "img" : "https://od2-image-api.abs-cbn.com/prod/editorImage/175316558548120220815-jollibee.jpg",
+        "lat" : 8.367402,
+        "lng" : 124.865351
+
+    },
+
+    {
+        "name" : "Minute Burger",
+        "description" : "Black Pepper Burger",
+        "img" : "https://i0.wp.com/farm6.static.flickr.com/5249/5353810700_50977ce99a_o.gif?resize=268%2C332",
+        "lat" : 8.367556, 
+        "lng" : 124.864852
+
+    }, 
+
+    {
+        "name" : "Pa-paff",
+        "description" : "Pizza",
+        "img" : "https://assets.surlatable.com/m/15a89c2d9c6c1345/72_dpi_webp-REC-283110_Pizza.jpg",
+        "lat" : 8.367392,
+        "lng" : 124.866877
+
+    }
+]
